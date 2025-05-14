@@ -5,7 +5,18 @@ This project analyzes Twitter sentiment to explore one of the most debated quest
 
 Using data mining, NLP, and machine learning, we classify tweets into two categories:
 - ✅ Pro-LeBron  
-- ✅ Pro-Jordan  
+- ✅ Pro-Jordan
+  
+## 📚 Techniques Used
+Tweepy – Twitter API v2 access
+
+NLTK – Stopword removal, lemmatization
+
+Gensim – Word2Vec embeddings
+
+Scikit-learn – ML models and vectorizers
+
+Matplotlib / Seaborn – Data visualization
 
 ---
 
@@ -59,16 +70,7 @@ Confusion Matrix:
 [[43  7]
  [ 5 45]]
 
-📚 Techniques Used
-Tweepy – Twitter API v2 access
 
-NLTK – Stopword removal, lemmatization
-
-Gensim – Word2Vec embeddings
-
-Scikit-learn – ML models and vectorizers
-
-Matplotlib / Seaborn – Data visualization
 
 
 
